@@ -1,0 +1,30 @@
+{
+  "name": "stream-entropy",
+  "version": "0.0.0",
+  "description": "measure the entropy of streamed literals",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tmcw/stream-entropy.git"
+  },
+  "keywords": [
+    "entropy",
+    "statistics"
+  ],
+  "author": "Tom MacWright",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/tmcw/stream-entropy/issues"
+  },
+  "devDependencies": {
+    "expect.js": "~0.2.0",
+    "mocha": "~1.13.0"
+  },
+  "dependencies": {
+    "incr-object": "0.0.0",
+    "through": "~2.3.4"
+  }
+}
