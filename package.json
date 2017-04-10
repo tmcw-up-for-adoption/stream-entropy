@@ -20,8 +20,8 @@
     "url": "https://github.com/tmcw/stream-entropy/issues"
   },
   "devDependencies": {
-    "expect.js": "~0.2.0",
-    "mocha": "~1.13.0"
+    "expect.js": "~0.3.1",
+    "mocha": "~3.2.0"
   },
   "dependencies": {
     "incr-object": "0.0.0",
