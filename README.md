@@ -1,5 +1,7 @@
 # stream-entropy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tmcw/stream-entropy.svg)](https://greenkeeper.io/)
+
 Measures the shannon entropy of a stream of Javascript literals.
 
 ## api
